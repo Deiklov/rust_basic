@@ -1,0 +1,5 @@
+[package]
+name = "server"
+version = "0.1.0"
+authors = ["Deiklov <romanov408g@mail.ru>"]
+build = "src/main.rs"
